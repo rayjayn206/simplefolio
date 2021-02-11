@@ -196,13 +196,13 @@ Go to `/src/template.html` and fill your information, they are 5 sections:
   <div class="row">
     <div class="col-lg-4 col-sm-12">
       <div class="project-wrapper__text">
-        <h3 class="project-wrapper__text-title">[Project Title]</h3>
+        <h3 class="project-wrapper__text-title">Robofriends app</h3>
         <div>
           <p class="mb-4">
-            Lorem ipsum dolor sit, my project information.
+            This is just a simple app that displays robot faces with a searchbar for searching each name
           </p>
         </div>
-        <a target="_blank" class="cta-btn cta-btn--hero" href="#!">
+        <a target="" class="cta-btn cta-btn--hero" href="https://rayjayn206.github.io/robofriends/">
           See Live
         </a>
         <a target="_blank" class="cta-btn text-color-main" href="#!">
